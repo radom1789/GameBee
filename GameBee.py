@@ -8,7 +8,7 @@
 # and one that is a pollinator. You are a bee trying to pollinate the flowers
 # with the pollinator flowers. You have two helper bees who automatically goes
 # around trying to pollinate the flowers. There is also a feature where you
-# can encounter "bad" flowers whos pollen is polluted. If you gather the pollen
+# can encounter "bad" flowers whose pollen is polluted. If you gather the pollen
 # of the bad flower, you lose your entire pollen inventory.
 #################################################
 
